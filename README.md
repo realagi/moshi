@@ -1,4 +1,4 @@
-# Moshi: a speech-text foundation model for real time dialogue
+# Moshi: a speech-text foundation model for real time dialogue (RealAGI Flavored)
 
 ![precommit badge](https://github.com/kyutai-labs/moshi/workflows/precommit/badge.svg)
 ![rust ci badge](https://github.com/kyutai-labs/moshi/workflows/Rust%20CI/badge.svg)
